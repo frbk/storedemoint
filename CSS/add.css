@@ -1,0 +1,42 @@
+body {
+	margin: auto;
+	padding: 5px;
+	width: 1024px;
+}
+.menu {
+	border-style: solid;
+	border-width: 1px;
+	padding: 2px;
+}
+ul {
+	list-style-type: none;
+	margin: auto;
+}
+li {
+	display: inline;
+}
+/*
+ input,textarea{
+ float: right;
+ }
+ */
+
+.text table {
+	text-align: right;
+	border-style: none;
+}
+.text td {
+	text-align: right;
+	border-style: none;
+}
+
+.red {
+	color: #FF0000;
+}
+
+table, th, td {
+	border-style: solid;
+	border-width: 1px;
+}
+
+
